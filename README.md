@@ -4,14 +4,14 @@ Welcome to my GitHub profile!
 
 ## About Me
 - 💻 I love coding and learning new things.
-- 🌱 Currently learning *JavaScript* and *Python*.
+- 🌱 Currently learning *JavaScript*.
 - 🛠️ Working on small projects to sharpen my skills.
 - 📚 Always curious about web development and game programming.
 
 ## Tools & Languages
-- Python 🐍
+- React
 - JavaScript ⚡
-- HTML & CSS 🎨
+- MySQL
 - Git & GitHub 🔧
 
 ## Projects
